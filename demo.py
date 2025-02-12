@@ -12,5 +12,3 @@ def div(a,b):
 print("task is done")
 
 
-
-
